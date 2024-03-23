@@ -1,7 +1,7 @@
-- Hi, I’m @shchoe2598
-- I’m interested in learning more about programming.
-- I’m currently learning Git, Go, Javascript
-- Nice to meet you!
+Hello there!
+My name is Sarah. I'm currently a Computer Science student at Cal Poly Pomona.
+I'm happy to learn!
+
 
 <!---
 shchoe2598/shchoe2598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
